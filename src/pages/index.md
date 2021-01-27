@@ -21,7 +21,7 @@ sections:
       Podívejte se, jak interaktivní dokumentové šablony pomáhají zlepšovat
       personalizovanou klientskou komunikaci.
     features:
-      - title: The Best Feature of Your Services
+      - title: Inteligentní dokumentové šablony
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
