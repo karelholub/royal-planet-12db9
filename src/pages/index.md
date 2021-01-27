@@ -33,7 +33,7 @@ sections:
           inteligentní dokumentové šablony jim dovolí **soustředit se jen na
           kvalitní obsah** bez starostí o formu.
         actions:
-          - label: ' ichC'
+          - label: hC
             url: /features
             style: secondary
             has_icon: true
