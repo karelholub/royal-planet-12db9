@@ -56,10 +56,13 @@ sections:
             icon_position: right
       - title: Knihovna dokumentových šablon
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Uživatel si snadno najde dokumentovou šablonu přesně pro svojí
+          aktuální situaci a potřeby. Šablony jsou vždy aktualizované a dostupné
+          ihned. Řazení šablon do kategorií pak dále usnadňuje uživateli
+          vyhledání správné šablony. Systém umí pracovat s uživatelským
+          oprávněním a může vybrané šablony zpřístupnit pouze pro relevantní
+          uživatelské skupiny.
         actions:
           - label: Learn More
             url: /features
