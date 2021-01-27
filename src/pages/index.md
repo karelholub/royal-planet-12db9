@@ -48,7 +48,7 @@ sections:
           dat dokumentu. Veškerá vstupní data mohou být validována, může být
           nastavena vstupní maska a povolený rozsah hodnot.
         actions:
-          - label: ichC
+          - label: Chci vědět víc
             url: /features
             style: secondary
             has_icon: true
