@@ -32,7 +32,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: ''
+          - label: Tohle chci
             url: /signup
             style: primary
       - title: Enterprise
