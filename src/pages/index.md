@@ -97,7 +97,10 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Interaktivně a inteligentně
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Dejte svým lidem možnost soustředit se na obchod a péči o klienta. Náš
+      systém se postará o všechno ostatní, co je spojené s procesy a principy
+      moderní, personalizované klientské komunikace.
     actions:
       - label: Get Started
         url: /signup
