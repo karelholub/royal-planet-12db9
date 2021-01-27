@@ -22,7 +22,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional
-        subtitle: For medium-sized businesses
+        subtitle: Nebude vám nic chybět
         price: $49/m
         details: |-
           * Curabitur non nunc mollis
