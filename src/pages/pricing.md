@@ -18,7 +18,7 @@ sections:
           * Suspendisse ut lacus
           * Etiam eget dui a augue
         actions:
-          - label: hoT
+          - label: Tohle chci
             url: /signup
             style: secondary
       - title: Professional
