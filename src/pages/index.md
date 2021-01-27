@@ -8,6 +8,11 @@ sections:
     content: >
       Moderní personalizovaná klientská komunikace vyžaduje nástroje pro
       interaktivní práci s dokumenty.
+
+
+
+
+      ![](https://www.kadel.cz/uploads/9/7/9/7/97970288/moms-velky_orig.png)
     actions:
       - label: Chci vědět víc
         url: /features
