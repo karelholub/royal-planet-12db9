@@ -75,8 +75,8 @@ sections:
     background: white
     title: Co se o nás povídá
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      Naše řešení využívají firmy různého zaměření a velikosti. Přečtěte si, co
+      o nás říkají.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
