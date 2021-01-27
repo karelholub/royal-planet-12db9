@@ -36,6 +36,11 @@ sections:
           dokumenty jsou tak jednoduše dostupné pro všechny uživatele a
           inteligentní dokumentové šablony jim dovolí **soustředit se jen na
           kvalitní obsah** bez starostí o formu.
+
+
+
+
+          ![](https://www.kadel.cz/uploads/9/7/9/7/97970288/published/laptop-mockups.png?1550422804)
         actions:
           - label: Chci vědět víc
             url: /features
