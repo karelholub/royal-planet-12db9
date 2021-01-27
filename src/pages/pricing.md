@@ -5,7 +5,9 @@ sections:
     type: section_pricing
     background: gray
     title: Naše ceny
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Dokážeme najít řešení se skvělým poměrem ceny a výkonu pro každou firmu a
+      situaci.
     pricing_plans:
       - title: Basic
         subtitle: For small businesses
