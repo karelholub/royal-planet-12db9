@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Co umíme
     subtitle: >-
       Podívejte se, jak interaktivní dokumentové šablony pomáhají zlepšovat
       personalizovanou klientskou komunikaci.
