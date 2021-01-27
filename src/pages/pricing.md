@@ -32,7 +32,7 @@ sections:
           * Nullam sollicitudin ante
         highlight: true
         actions:
-          - label: Order Now
+          - label: ''
             url: /signup
             style: primary
       - title: Enterprise
