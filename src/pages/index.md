@@ -23,10 +23,15 @@ sections:
     features:
       - title: Inteligentní dokumentové šablony
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Vytvářejte a upravujte interaktivní firemních dokumenty **přímo ve
+          webovém prohlížeči,** bez nutnosti instalace aplikací na lokální
+          počítače.
+
+          Smlouvy, nabídky, obchodní dopisy, zápisy z jednání a další obchodní
+          dokumenty jsou tak jednoduše dostupné pro všechny uživatele a
+          inteligentní dokumentové šablony jim dovolí **soustředit se jen na
+          kvalitní obsah** bez starostí o formu.
         actions:
           - label: Learn More
             url: /features
