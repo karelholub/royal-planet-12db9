@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Interaktivní dokumenty
     content: >
       Moderní personalizovaná klientská komunikace vyžaduje nástroje pro
       interaktivní práci s dokumenty.
