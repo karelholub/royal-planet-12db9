@@ -99,7 +99,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "liame",
+                        "default_value": "email",
                         "is_required": true
                     }
                 ],
