@@ -103,7 +103,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Odebírat"
             }
         ],
         "has_nav": true,
