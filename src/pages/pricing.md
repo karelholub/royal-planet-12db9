@@ -36,7 +36,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: For very large businesses
+        subtitle: Řešení upravené na míru
         price: $149/m
         details: |-
           * Vestibulum non eros quis
