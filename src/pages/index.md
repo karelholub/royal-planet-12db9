@@ -72,6 +72,11 @@ sections:
           vyhledání správné šablony. Systém umí pracovat s uživatelským
           oprávněním a může vybrané šablony zpřístupnit pouze pro relevantní
           uživatelské skupiny.
+
+
+
+
+          ![](https://www.kadel.cz/uploads/9/7/9/7/97970288/multichannel-small_orig.jpg)
         actions:
           - label: Chci vědět víc
             url: /features
