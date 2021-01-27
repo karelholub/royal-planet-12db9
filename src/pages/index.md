@@ -41,10 +41,12 @@ sections:
             icon_position: right
       - title: Průvodce dokumentem
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Průvodce dokumentem zajistí orientaci i v rozsáhlých dokumentech.
+
+          K dispozici je také sekce pro snadné a přehledné vkládání a editaci
+          dat dokumentu. Veškerá vstupní data mohou být validována, může být
+          nastavena vstupní maska a povolený rozsah hodnot.
         actions:
           - label: Learn More
             url: /features
