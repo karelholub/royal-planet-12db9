@@ -54,7 +54,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Knihovna dokumentových šablon
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
