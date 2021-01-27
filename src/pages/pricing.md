@@ -51,7 +51,9 @@ sections:
     type: section_faq
     background: gray
     title: časté dotazy
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: >-
+      Máme za sebou desítky projektů a setkali jsme se s různými dotazy.
+      Podívejte, jestli najdete odpovědi i na to, co zajímá vás
     faq_items:
       - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
         answer: >-
