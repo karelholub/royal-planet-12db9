@@ -10,7 +10,7 @@ sections:
       situaci.
     pricing_plans:
       - title: Basic
-        subtitle: For small businesses
+        subtitle: Pro malé společnosti
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
