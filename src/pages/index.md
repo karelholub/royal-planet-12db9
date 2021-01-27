@@ -102,7 +102,7 @@ sections:
       systém se postará o všechno ostatní, co je spojené s procesy a principy
       moderní, personalizované klientské komunikace.
     actions:
-      - label: tíčaZ
+      - label: Chci začít hned
         url: /signup
         style: primary
   - section_id: recent-posts
