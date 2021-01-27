@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Podívejte se, jak interaktivní dokumentové šablony pomáhají zlepšovat
+      personalizovanou klientskou komunikaci.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
