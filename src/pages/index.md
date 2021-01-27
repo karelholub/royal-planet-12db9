@@ -64,7 +64,7 @@ sections:
           oprávněním a může vybrané šablony zpřístupnit pouze pro relevantní
           uživatelské skupiny.
         actions:
-          - label: Ch
+          - label: Chci
             url: /features
             style: secondary
             has_icon: true
