@@ -91,7 +91,7 @@
             {
                 "type": "footer_form",
                 "title": "Zůstaňte v kontaktu",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Svěřte nám svůj email a dozvíte se více\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
