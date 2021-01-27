@@ -44,7 +44,7 @@ sections:
           * Mauris eleifend sapien
           * Phasellus lobortis risus laoreet quam
         actions:
-          - label: elhoT
+          - label: oT
             url: /signup
             style: secondary
   - section_id: faq
