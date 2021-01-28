@@ -11,7 +11,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: Pro malé společnosti
-        price: $5/m
+        price: '1200,-'
         details: |
           *   Až 10 současně přihlášených uživatelů
           *   3 typizované dokumentové šablony
