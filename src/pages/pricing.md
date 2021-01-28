@@ -40,7 +40,7 @@ sections:
             style: primary
       - title: Enterprise
         subtitle: Řešení upravené na míru
-        price: $149/m
+        price: Na vyžádání
         details: |
           *   Řešení na míru pro velké množství uživatelů a šablon
           *   Možnost integrací na zdrojové i cílové systémy
