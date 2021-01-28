@@ -41,11 +41,12 @@ sections:
       - title: Enterprise
         subtitle: Řešení upravené na míru
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Řešení na míru pro velké množství uživatelů a šablon
+          *   Možnost integrací na zdrojové i cílové systémy
+          *   Nastavení schvalovacích procesů
+          *   Distribuční pravidla a automatizace
+          *   Omnikanálová orchestrace
         actions:
           - label: Tohle chci
             url: /signup
