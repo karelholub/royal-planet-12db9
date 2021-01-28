@@ -26,10 +26,10 @@ sections:
         subtitle: Nebude vám nic chybět
         price: $49/m
         details: |
-          *   Až 30 současně přihlášených uživatelů
-          *   3 typizované šablony
-          *   5 inteligentních šablon na míru
-          *   Možnost distribuce dokumentů emailem
+          *   Až **30** současně přihlášených uživatelů
+          *   **3 typizované** šablony
+          *   **5 inteligentních** šablon na míru
+          *   Možnost distribuce dokumentů **emailem**
           *   Zvýhodněná cena datové integrace
           *   Zvýhodněná cena dalších balíčků
           *   Uložení historie komunikace a klientských dat
