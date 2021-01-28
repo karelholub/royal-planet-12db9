@@ -25,12 +25,14 @@ sections:
       - title: Professional
         subtitle: Nebude vám nic chybět
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          *   Až 30 současně přihlášených uživatelů
+          *   3 typizované šablony
+          *   5 inteligentních šablon na míru
+          *   Možnost distribuce dokumentů emailem
+          *   Zvýhodněná cena datové integrace
+          *   Zvýhodněná cena dalších balíčků
+          *   Uložení historie komunikace a klientských dat
         highlight: true
         actions:
           - label: Tohle chci
