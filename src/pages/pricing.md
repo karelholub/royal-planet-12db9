@@ -24,7 +24,7 @@ sections:
             style: secondary
       - title: Professional
         subtitle: Nebude vám nic chybět
-        price: $49/m
+        price: '1500,-'
         details: |
           *   Až **30** současně přihlášených uživatelů
           *   **3 typizované** šablony
