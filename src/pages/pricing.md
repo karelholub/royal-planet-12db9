@@ -12,11 +12,12 @@ sections:
       - title: Basic
         subtitle: Pro malé společnosti
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Až 10 současně přihlášených uživatelů
+          *   3 typizované dokumentové šablony
+          *   2 inteligentní šablony na míru
+          *   Uložená historie komunikace a klientská data
+          *   Výstup do PDF
         actions:
           - label: Tohle chci
             url: /signup
