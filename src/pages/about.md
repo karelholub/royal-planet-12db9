@@ -1,8 +1,9 @@
 ---
-title: About Us
+title: O nás
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Jsme společnost s více než 20 lety zkušeností v oboru personalizované klientské komunikace. 
+  Jsme silný partner, na kterého se můžete spolehnout.
+  Jsme inovátoři, kteří posouvají standardy klientské komunikace neustále kupředu.
 image: images/about.jpg
 image_alt: Team members in a conference room
 template: page

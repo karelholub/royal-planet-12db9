@@ -1,8 +1,8 @@
 ---
-title: Sign Up
+title: Chci interaktivní portál
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Připojte se k celé řadě spokojených klientů a začněte používat 
+  inteligentní interaktivní dokumentové šablony i vy
 image: images/11.jpg
 image_alt: Office desk top view
 template: page

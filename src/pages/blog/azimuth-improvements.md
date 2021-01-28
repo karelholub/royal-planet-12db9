@@ -1,5 +1,5 @@
 ---
-title: Release Notes - Azimuth Improvements and New Integrations
+title: Firemní dokumentové šablony pod kontrolou
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
@@ -7,13 +7,13 @@ author: src/data/authors/john-doe.yaml
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '2017-03-26'
+date: '2021-01-26'
 thumb_image: images/1_thumb.jpg
 template: post
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Ztrácíte taky občas kontrolu nad šablonami dokumentů pro firemní a klientskou komunikaci? Na našich projektech jsme zvyklí pracovat se stovkami dokumentových šablon pro hromadnou komunikaci, kdy firmy rozesílají například výpisy, oznámení, změny podmínek nebo marketingová sdělení.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Často ale narazíme na "šuplík" plný šablon pro obchodní dopisy, nabídky, předsmluvní dokumentaci a podklady pro sběr dat, které jsou úplně mimo kontrolu. Obvykle jde o wordové šablony, které vznikaly v průběhu několika let, na různých útvarech a podle různých pravidel. Souhrnný název této kategorie by mohl být "bordel na kolečkách"
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+A my tenhle nepořádek umíme narovnat. Naším želízkem v ohni je cloudová platforma pro interaktivní klientskou komunikaci. Přehledná knihovna dokumentových šablon, podpora obchodních procesů, plná automatizace distribuce dokumentů, validace vstupních údajů nebo průvodce vyplněním dokumentů. To jsou pomocníci, které budou vaši uživatelé milovat, rychle se s nimi sžijí a brzy si nebudou umět představit návrat ke starým způsobům práce. 
