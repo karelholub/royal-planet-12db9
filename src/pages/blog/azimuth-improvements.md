@@ -1,12 +1,10 @@
 ---
 title: Firemní dokumentové šablony pod kontrolou
 subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
-author: src/data/authors/john-doe.yaml
+  Firemní dokumenty a šablony klientské komunikace pod kontrolou
+author: src/data/authors/karel-holub.yaml
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Často ale narazíme na "šuplík" plný šablon pro obchodní dopisy, nabídky, předsmluvní dokumentaci a podklady pro sběr dat, které jsou úplně mimo kontrolu.
 date: '2021-01-26'
 thumb_image: images/1_thumb.jpg
 template: post
