@@ -9,11 +9,20 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
       tortor pretium ligula.
+
+      ##Kontaktní adresa
+
+      **COPY GENERAL s.r.o.**
+      Křížová 2598/4
+      150 00 Praha 5
+
+      tel.: +420 210 219 000
+      (v pracovní dny od 8–17 hodin)
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Jméno a příjmení
         is_required: true
       - input_type: email
         name: email
@@ -21,21 +30,20 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Co vás zajímá
+        default_value: Prosím vyberte
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Chci interaktivní portál
+          - Chci více informací
+          - Mám obecný dotaz
       - input_type: textarea
         name: message
-        label: Message
+        label: Zpráva
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Vyplněním a odesláním formuláře potvrzujete, že jste byli informováni o zpracování a ochraně osobních údajů v souladu s GDPR.
         is_required: true
-    submit_label: Send Message
+    submit_label: Odeslat
 template: landing
 ---
